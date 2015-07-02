@@ -71,7 +71,7 @@ body {
 	margin:0;
 	height:100%;
 	width:100%;
-  	font-family: 'Source Sans Pro', Arial, sans-serif;
+  	font-family: 'Oxygen', Arial, sans-serif;
 	font-size: 13px;
 	line-height: 16px;
 	color: #333333;
@@ -106,9 +106,12 @@ a{
 }
 h1{
 	/*background: transparent url(../img/logo.png) top left no-repeat;*/
-	text-indent: -9999px;
-	width: 224px;
-	height: 167px;
+	/*text-indent: -9999px;*/
+	font-size: 44px;
+	line-height: 50px;
+	padding-bottom: 5px;
+	/*width: 224px;
+	height: 167px;*/
 	display: block;
 	font-family: 'Inconsolata';
 }
@@ -130,6 +133,7 @@ h3{
 }
 p{
 	padding-bottom: 10px;
+	/*font-family: sans-serif;*/
 }
 p.intro{
 	font-size: 13px;
